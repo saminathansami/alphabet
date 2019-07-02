@@ -1,10 +1,10 @@
-a,b,c=map(int,input().split())
-if(a>b):
-    if(a>c):
-        print(a)
+p,q,c=map(int,input().split())
+if(p>q):
+    if(p>c):
+        print(p)
     else:
         print(c)
-elif(b>c):
-    print(b)
+elif(q>c):
+    print(q)
 else:
     print(c)
