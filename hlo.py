@@ -1,4 +1,4 @@
 sam=input()
-ram=int(p)
+ram=int(sam)
 for y in range(ram):
   print("Hello")
